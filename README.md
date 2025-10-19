@@ -20,7 +20,7 @@ An interactive coding learning platform where you learn JavaScript by actually w
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/code-adventure-game.git
+git clone https://github.com/mIrfan02/coding-game-react.git
 cd code-adventure-game
 ```
 
